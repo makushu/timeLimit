@@ -1,0 +1,30 @@
+body{
+	border : 15px ridge #980802;
+	background-color : #fff;
+	color : #980802;
+	font-family: Verdana;
+	text-align:center;
+
+}
+
+#frontName{
+	font-size: 50px;
+}
+
+#frontName img{
+	width: 80px;
+	height: 80px;
+}		
+		
+#howToPlay, #play{
+	padding-bottom: 50px;
+}					
+
+#btn{
+	color:#980802;
+	font-size: 50px;
+}
+
+footer{
+	padding-bottom: 80px;
+}
